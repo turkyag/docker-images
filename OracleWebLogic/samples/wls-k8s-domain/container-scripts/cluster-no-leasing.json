@@ -11,7 +11,7 @@
 	    "url": "servers",
 	    "data": {
 		  "listenPort": 8011,
-		  "listenAddress": "managed-server-0.wls-subdomain.default.svc.cluster.local",
+		  "listenAddress": "",
 		  "cluster": ["clusters", "myCluster"],
 		  "name": "managed-server-0"
 		}
@@ -21,7 +21,7 @@
 	    "url": "servers",
 	    "data": {
 		  "listenPort": 8011,
-		  "listenAddress": "managed-server-1.wls-subdomain.default.svc.cluster.local",
+		  "listenAddress": "",
 		  "cluster": ["clusters", "myCluster"],
 		  "name": "managed-server-1"
 		}
@@ -31,7 +31,7 @@
 	    "url": "servers",
 	    "data": {
 		  "listenPort": 8011,
-		  "listenAddress": "managed-server-2.wls-subdomain.default.svc.cluster.local",
+		  "listenAddress": "",
 		  "cluster": ["clusters", "myCluster"],
 		  "name": "managed-server-2"
 		}
@@ -41,7 +41,7 @@
 	    "url": "servers",
 	    "data": {
 		  "listenPort": 8011,
-		  "listenAddress": "managed-server-3.wls-subdomain.default.svc.cluster.local",
+		  "listenAddress": "",
 		  "cluster": ["clusters", "myCluster"],
 		  "name": "managed-server-3"
 		}
